@@ -32,4 +32,4 @@
 
 
 .
-![Snake animation](https://github.com/marianafernandes2204/marianafernandes2204/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/username/marianafernandes2204/blob/output/github-contribution-grid-snake.svg)
